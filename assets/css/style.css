@@ -170,7 +170,7 @@ body {
 }
 
 a {
-  color: #1638df;
+  color: #070569;
 }
 
 a:hover {
@@ -201,7 +201,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 4px;
-  background: #1638df;
+  background: #070569;
   color: #fff;
   transition: all 0.4s;
 }
@@ -280,7 +280,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
   /* color: #1638df; */
-  background-color: #206bfb;;
+  background-color: #08067e;
   color: white;
   padding:5px;
   border-radius: 6px;
